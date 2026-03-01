@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a student at NAIT going through the DMIT Web Design and Development program.
+
+So far I have learned:
+- HTML
+- CSS
+- SQL
+- Adobe Photoshop
+- Adobe Illustrator
